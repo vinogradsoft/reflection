@@ -1,4 +1,5 @@
 # Reflection
+[![codecov](https://codecov.io/gh/vinogradsoft/reflection/branch/master/graph/badge.svg?token=I546IXKCO8)](https://codecov.io/gh/vinogradsoft/reflection)
 
 Библиотека для работы с файлами и директориями. 
 
